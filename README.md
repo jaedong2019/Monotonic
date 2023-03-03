@@ -1,4 +1,4 @@
-# Monotonic_loading
+# Monotonic_loading (Strongly anisotropic model)
 
 Strongly anisotropic model (Compact Tension and Compact Tension shear test)
 
